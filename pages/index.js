@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>"Demore o tempo que for para decidir o que você quer da vida, e depois que decidir não recue ante nenhum pretexto, porque o mundo tentará te dissuadir."</h1>
+    return <h1>"Respondeu Jesus: "Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim."</h1>
 }
 
 export default Home;
